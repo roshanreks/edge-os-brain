@@ -57,12 +57,50 @@ You have proof of concept. Now the job is to multiply the edge instead of lookin
 3. Basic retention systems (flows that actually drive second purchase)
 4. Light team / freelancers for creative and ops support
 
+## Offer & Money Model (Hormozi @ L2)
+The first purchase must create a designed second purchase.
+
+Install:
+- Offer matrix: starter / bundle / prepaid perk / guarantee
+- Classic upsell: the next-problem complement
+- Menu upsell: "1 or 2?"
+- Feature downsell: trial size if they bounce on price
+- WhatsApp refill reminder (continuity lite)
+
+Score: upsell take rate, prepaid mix, 60/90-day repeat, contribution after gifts.
+
+Deep system: `systems/offers-money-models.md`
+
+## Testing @ L2
+- 20–50 concepts/month in weekly batches
+- Spend gate: roughly ₹1,500–5,000 per concept
+- Variants of winners (70%) + new angles (30%)
+- First real landing test: PDP vs a page that matches the winning problem angle
+- Hide coupon box. Reviews + images + checkout first.
+
+Deep system: `systems/testing-and-experimentation.md`
+
+## Product Development @ L2
+- Protect the hero
+- Add only the complement the first product creates
+- Build one honest kit, not leftover bundles
+
+Deep system: `systems/product-development.md`
+
+## How To Scale @ L2
+Scale the winning *angle* and the offer matrix, not random SKUs or celebrity.
+
+Raise spend only when creative refresh and inventory can take it.
+
+Deep system: `systems/scaling.md`
+
 ## Common Traps
 - Getting bored of the winning creative and abandoning it too early
 - Launching too many new products instead of multiplying the edge
 - Still running everything as one-off campaigns instead of systems
 - Ignoring retention while chasing new customers
 - Letting CAC rise without improving LTV
+- Discounting the core instead of stacking bonuses
 
 ## 90-Day Action Checklist
 - [ ] Document the top 3 converting angles and create 10+ variations of each

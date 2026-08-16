@@ -12,5 +12,6 @@ Your job:
 4. Write clean, structured Markdown that can be dropped into `/wiki/` or the appropriate system file.
 5. Flag any numbers, benchmarks, or processes that should update our core benchmarks.
 6. Note any contradictions with existing EDGE OS thinking so we can resolve them.
+7. Recommend exact target files to update: `/levels/`, `/systems/`, `/wiki/`, or `/prompts/`.
 
 Be ruthless about quality. Only keep what is useful for Indian D2C brand owners scaling through the 5 Levels.

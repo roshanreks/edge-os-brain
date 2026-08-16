@@ -1,5 +1,7 @@
 # Ad Spend & Unit Economics System
 
+Use this file as the quick economics overview. For deeper cash, inventory, product testing, and working-capital rules, see `systems/capital-cash-flow.md`.
+
 ## Ad Spend as % of Revenue (India D2C 2026 calibrated)
 
 | Level | Monthly Revenue | Typical Ad Spend % | Notes |
@@ -29,3 +31,8 @@ These percentages only work if contribution margin and repeat rate are healthy. 
 
 ## Cash Flow Reality
 India e-com is working-capital intensive because of COD + returns. Improving cash conversion cycle (faster verification, lower RTO, better inventory turns) is often higher leverage than pure top-line growth.
+
+## Connected Systems
+- `systems/capital-cash-flow.md` - detailed allocation, CCC, product testing budgets, 13-week forecast
+- `systems/fulfillment-packaging-rto.md` - RTO, COD, NDR, packaging, and delivery economics
+- `systems/diagnostic-engine.md` - how to diagnose a founder's economics in context

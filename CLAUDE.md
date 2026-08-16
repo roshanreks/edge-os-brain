@@ -10,6 +10,9 @@ When a user asks for diagnosis or a plan:
 1. Identify their current Level (0-5L / 5-20L / 20-50L / 50L-1Cr / 1Cr+)
 2. Score their EDGE (Product, Branding, Creative, Association, Distribution)
 3. Check awareness coverage
-4. Give a prioritized 30/60/90 day action plan
+4. Check unit economics, CVR, creative volume, RTO/fulfillment, retention, and cash constraints
+5. Give a prioritized 30/60/90 day action plan
+
+Use `systems/diagnostic-engine.md` as the routing process, then pull the specific system files needed for copywriting, ads, CRO, traffic, creators, association, fulfillment, cash, branding, or AI workflows.
 
 Keep responses long, detailed, and operational when the user requests depth.

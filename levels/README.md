@@ -2,7 +2,7 @@
 
 Detailed operating playbooks for each revenue band.
 
-Files to be expanded:
+Playbook files:
 - level-01-0-5l.md
 - level-02-5-20l.md
 - level-03-20-50l.md
@@ -19,3 +19,5 @@ Each file will contain:
 - Fulfillment & capital notes
 - Common traps
 - 90-day action checklist
+
+Use these files as the first routing layer after `SYSTEM.md`. Once the founder's revenue level is identified, combine the relevant level playbook with the cross-cutting system files in `/systems/`.

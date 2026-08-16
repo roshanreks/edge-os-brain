@@ -1,5 +1,7 @@
 # Conversion Rate (CVR) & Store System
 
+Use this file as the quick CVR overview. For full store, PDP, landing page, funnel, and CRO workflow, see `systems/conversion-cro-store-funnels.md`.
+
 ## India D2C Shopify Benchmarks (2026)
 
 - Overall average: ~1.5–1.8%
@@ -30,3 +32,10 @@ Hot traffic needs less friction and stronger offer.
 - Mobile-first always
 - Trust elements visible without scrolling
 - Consistent with the winning creative messaging
+
+## Connected Systems
+- `systems/conversion-cro-store-funnels.md` - full CRO/store/funnel operating system
+- `systems/testing-and-experimentation.md` - scores, spend gates, A/B rules
+- `systems/offers-money-models.md` - kits, upsells, guarantees on the page
+- `systems/copywriting-engine.md` - page copy, claims, proof, awareness matching
+- `systems/ad-types-library.md` - ad formats that need matching landing pages

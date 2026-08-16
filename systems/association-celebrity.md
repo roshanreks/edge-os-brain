@@ -1,5 +1,7 @@
 # Association & Celebrity System
 
+Use this file as the quick association overview. For detailed celebrity, influencer, expert, PR, asset planning, and measurement rules, see `systems/association-celebrity-influencers.md`.
+
 Association (influencers, celebrities, brand partnerships, cultural affiliations) is one of the five EDGE components.
 
 ## What Happens When You Use the Right Association
@@ -23,3 +25,8 @@ Association (influencers, celebrities, brand partnerships, cultural affiliations
 Celebrity is expensive and attribution is messy. It works best when it multiplies an already working EDGE rather than trying to create one from nothing.
 
 Nano/micro often outperform pure celebrity on engagement, trust, and usable UGC volume.
+
+## Connected Systems
+- `systems/association-celebrity-influencers.md` - full association operating system
+- `systems/creators-founder-content.md` - creator and founder content execution
+- `systems/ad-types-library.md` - how association content becomes usable ads

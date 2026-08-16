@@ -33,6 +33,41 @@ edge-os-brain/
 3. For Claude Projects: upload key files or link the repo
 4. Feed new YouTube videos → put transcripts in `raw/youtube/` → run extraction prompts
 
+## Fast Loading Path for AI Tools
+
+For a founder diagnosis, load:
+1. `SYSTEM.md`
+2. `INDEX.md`
+3. the relevant file in `levels/`
+4. `systems/diagnostic-engine.md`
+5. any specific system needed: copywriting, ads, CRO, traffic, creators, fulfillment, cash, or branding
+
+For adding new knowledge, keep the path clean:
+1. source material goes into `raw/`
+2. extracted notes go into `wiki/`
+3. durable operating rules update `systems/`
+4. level-specific changes update `levels/`
+
+## Current Brain Coverage
+
+- Level 1-5 e-commerce scaling roadmap
+- EDGE framework: Product, Branding, Creative, Association, Distribution
+- Schwartz awareness stages: Unaware to Most Aware
+- Copywriting and market sophistication
+- Ad formats, funny ads, founder content, creator content, and celebrity/association
+- Store conversion, PDPs, landing pages, funnels, speed, mobile UX, and CRO testing
+- Testing and experimentation across creative, CRO, product, offer, and launches
+- Offer and money model architecture: attraction offers, upsells, cross-sells, downsells, continuity
+- Product development, product truth, launch stage gates, GTM planning, and post-mortems
+- Scaling system: vertical budget growth, horizontal creative expansion, money model, operations, and cash constraints
+- Growth scorecards and level-by-level best-practices matrix
+- Traffic and distribution channels
+- Fulfillment, packaging, COD, RTO, NDR, and customer experience
+- Capital allocation, product testing, media testing, cash conversion cycle
+- AI/GPT workflows and fast image testing
+- Diagnostic engine for founder/client analysis
+- Research benchmark wiki and transcript ingestion prompts
+
 ## Ownership
 
 Maintained by Roshan Chaudhari (The Urban Media / FractalX)
