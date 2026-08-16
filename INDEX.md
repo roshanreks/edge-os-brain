@@ -10,20 +10,20 @@
 - [core/schwartz-awareness-levels.md](core/schwartz-awareness-levels.md)
 
 ## Levels (Playbooks)
-- Level 1: 0–5 Lacs → `levels/level-01-0-5l.md`
-- Level 2: 5–20 Lacs → `levels/level-02-5-20l.md`
-- Level 3: 20–50 Lacs → `levels/level-03-20-50l.md`
-- Level 4: 50 Lacs–1 Cr → `levels/level-04-50l-1cr.md`
-- Level 5: 1 Cr+ → `levels/level-05-1cr-plus.md`
+- [Level 1: 0–5 Lacs](levels/level-01-0-5l.md) — Detailed
+- [Level 2: 5–20 Lacs](levels/level-02-5-20l.md) — Detailed
+- Level 3: 20–50 Lacs → `levels/level-03-20-50l.md` (to be expanded)
+- Level 4: 50 Lacs–1 Cr → `levels/level-04-50l-1cr.md` (to be expanded)
+- Level 5: 1 Cr+ → `levels/level-05-1cr-plus.md` (to be expanded)
 
 ## Systems
-- Creative Engine
-- Conversion / CVR / Store / Funnels
-- Fulfillment + Packaging
-- Capital Allocation + Cash Flow Cycle
-- Branding + Messaging + Customer Profile
-- Association / Celebrity / Influencers
-- Traffic & Distribution
+- [Creative Engine](systems/creative-engine.md)
+- [Ad Spend & Unit Economics](systems/ad-spend-and-economics.md)
+- [Conversion / CVR / Store](systems/conversion-cvr.md)
+- [Association & Celebrity](systems/association-celebrity.md)
+- Fulfillment + Packaging (pending)
+- Branding + Messaging (pending)
+- Traffic & Distribution (pending)
 
 ## Raw Sources
 - `raw/youtube/` — Transcripts + metadata
@@ -31,7 +31,8 @@
 - `raw/client-notes/`
 
 ## Prompts
-- Extraction, diagnosis, synthesis prompts live in `/prompts/`
+- [Extract from YouTube](prompts/extract-from-youtube.md)
+- [Diagnose Founder](prompts/diagnose-founder.md)
 
 ---
-Last updated: 2026-08-16
+Last updated: 2026-08-16 (initial major knowledge install from conversation + research)
